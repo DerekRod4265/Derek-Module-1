@@ -16,4 +16,12 @@
 directories, and modified permissions.
 
 3. Push Module 1 project to Github
+
+##Current Directory Path
+/Users/student/my_project
 	
+##Next Directory Path
+/Users/student/my_project/who_are_you
+
+##Previous Directory Path 
+/Users/student
