@@ -1,1 +1,31 @@
-**This is a backup file**
+# Module 1 Project 
+
+
+![This is an
+image](https://static.wixstatic.com/media/d904ec_a4f76835db9b4898a826d3f7c663f8f0~mv2.png/v1/fill/w_448,h_168,al_c,q_85,usm_0.66_$
+
+
+## Project Requirements
+
+1. 7 directories, each with a Readme.md file
+
+2. 7 directories filled with the following content
+	- Folder 1: Who are you? 
+	- Folder 2: What do you know?
+	- Folder 3: Where are you going?
+	- Folder 4: What is important to you?
+	- Folder 5: What is possible?
+	- Folder 6: A backup of the contents of the project folder 
+	- Folder 7: A screen shot of student's Unix commands of all files, 
+directories, and modified permissions.
+
+3. Push Module 1 project to Github
+
+## Current Directory Path
+/Users/student/my_project
+	
+## Next Directory Path
+/Users/student/my_project/who_are_you
+
+## Previous Directory Path 
+/Users/student
