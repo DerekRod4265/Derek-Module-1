@@ -1,10 +1,6 @@
 # Module 1 Project 
 
 
-![This is an
-image](https://static.wixstatic.com/media/d904ec_a4f76835db9b4898a826d3f7c663f8f0~mv2.png/v1/fill/w_448,h_168,al_c,q_85,usm_0.66_$
-
-
 ## Project Requirements
 
 1. 7 directories, each with a Readme.md file
